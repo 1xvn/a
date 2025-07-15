@@ -5,7 +5,7 @@
 ## 🚀 시작하기
 
 ```bash
-git clone https://github.com/1xvn/text2image-ai-template.git
+https://github.com/1xvn/a.git
 cd text2image-ai-template
 pip install -r requirements.txt
 python app.py
